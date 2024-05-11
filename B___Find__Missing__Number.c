@@ -26,7 +26,7 @@ scanf("%lld %lld %lld %lld", &M, &A, &B, &C);
     }
  }
 
-printf("\n");
+printf("\n"); 
 
 }
 return 0;
