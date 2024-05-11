@@ -71,7 +71,7 @@ int main(){
     int row, col;
     scanf("%d %d", &row, &col);
 
-    int arr[row][col];
+    int arr[row+1][col+1];
 
     // Take 2D array Input
     for(int m = 1; m <= row; m++){
